@@ -28,3 +28,7 @@
 第二步：在config.json 这层目录下运行 ```yapi plugin --name yapi-plugin-gitlab-oauth2```   重新下载插件  
 
 第三步：重启服务器
+
+参考资料：
+	
+1、[GitLab as OAuth2 authentication service provider](https://docs.gitlab.com/ee/integration/oauth_provider.html)

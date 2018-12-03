@@ -5,16 +5,15 @@
   "main": "index.js",
   "keywords": [
     "yapi",
-    "plugin;",
+    "plugin",
     "oauth2",
-    "for",
     "gitlab"
   ],
   "engines": {
     "node": ">= 7.6.0",
     "npm": ">= 4.1.2"
   },
-  "devDependencies": {
+  "dependencies": {
     "simple-oauth2": "^2.2.1"
   }
 }
