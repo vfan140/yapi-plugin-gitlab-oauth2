@@ -1,0 +1,20 @@
+{
+  "name": "yapi-plugin-gitlab-oauth2",
+  "author": "Landray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "yapi",
+    "plugin;",
+    "oauth2",
+    "for",
+    "gitlab"
+  ],
+  "engines": {
+    "node": ">= 7.6.0",
+    "npm": ">= 4.1.2"
+  },
+  "devDependencies": {
+    "simple-oauth2": "^2.2.1"
+  }
+}
